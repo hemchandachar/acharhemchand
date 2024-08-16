@@ -1,0 +1,35 @@
+.project__container {
+    width: 750px;
+}
+
+.project__card {
+    background-color: white;
+    /* border: 1px solid black; */
+    padding: 1.5rem 5rem;
+    border-radius: 1.3rem;
+}
+
+.project__img {
+    width: 80px;
+    /* border-radius: 3rem; */
+    margin-bottom: var(--mb-1);
+}
+
+.project__img:hover {
+    transform: scale(3);
+}
+
+.project__name {
+    font-size: var(--normal-font-size);
+    font-weight: var(--font-medium);
+    margin-bottom: var(--mb-0-25);
+}
+
+.project__description {
+    font-size: var(--small-font-size);
+}
+
+/* Swiper Class */
+.swiper-pagination-bullet {
+    background-color: red;
+}
