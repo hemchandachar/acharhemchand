@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/acharhemchand/static/css/main.a45bd527.css",
-    "main.js": "/acharhemchand/static/js/main.257e437e.js",
+    "main.js": "/acharhemchand/static/js/main.360bb024.js",
     "static/js/453.b21437c2.chunk.js": "/acharhemchand/static/js/453.b21437c2.chunk.js",
     "static/media/BreastCancer.png": "/acharhemchand/static/media/BreastCancer.c891891a013c412ea365.png",
     "static/media/HemchandPic (1).jpg": "/acharhemchand/static/media/HemchandPic (1).7e824103bffdfdec6afe.jpg",
     "static/media/IBM.png": "/acharhemchand/static/media/IBM.bf685f2ac8b19a39c54a.png",
     "static/media/PowerBI.png": "/acharhemchand/static/media/PowerBI.9e6707bf0be38863b6af.png",
     "static/media/Wipro.png": "/acharhemchand/static/media/Wipro.b2f42502e3be8f1448f5.png",
-    "static/media/Hemchand_Resume.pdf": "/acharhemchand/static/media/Hemchand_Resume.185e98ae132918d03542.pdf",
+    "static/media/Resume-Hemchand.pdf": "/acharhemchand/static/media/Resume-Hemchand.5bfbaee41e755564d978.pdf",
     "static/media/GoldmanSacch.png": "/acharhemchand/static/media/GoldmanSacch.784b5f3ed6f24e2728cf.png",
     "static/media/cyber_cert.png": "/acharhemchand/static/media/cyber_cert.2a860c4e3e4e684d3217.png",
     "static/media/about_hemchand.jpg": "/acharhemchand/static/media/about_hemchand.1d00a84cbeeb72f747aa.jpg",
     "index.html": "/acharhemchand/index.html",
     "main.a45bd527.css.map": "/acharhemchand/static/css/main.a45bd527.css.map",
-    "main.257e437e.js.map": "/acharhemchand/static/js/main.257e437e.js.map",
+    "main.360bb024.js.map": "/acharhemchand/static/js/main.360bb024.js.map",
     "453.b21437c2.chunk.js.map": "/acharhemchand/static/js/453.b21437c2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a45bd527.css",
-    "static/js/main.257e437e.js"
+    "static/js/main.360bb024.js"
   ]
 }
